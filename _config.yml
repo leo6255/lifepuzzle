@@ -16,7 +16,10 @@ timezone: "Europe/Moscow"
 
 title: LifePuzzle # the main title
 
-tagline: о привычках, продуктивности и саморазвитии # it will display as the subtitle
+tagline: |
+  о привычках, продуктивности и саморазвитии
+   
+  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Блог о привычках, продуктивности и саморазвитии.
