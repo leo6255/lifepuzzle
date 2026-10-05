@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" fill="none"><metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><rdf:Description><dc:creator>RealFaviconGenerator</dc:creator><dc:source>https://realfavicongenerator.net</dc:source></rdf:Description></rdf:RDF></metadata><defs>
+    <linearGradient id="puzzle" x1="22" y1="21" x2="278" y2="278" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#21B8A6"></stop>
+      <stop offset="1" stop-color="#4169E1"></stop>
+    </linearGradient>
+  </defs><path d="M44 21h82c12 0 22 10 22 22v17c0 14 11 25 25 25s25-11 25-25V43c0-12 10-22 22-22h58c12 0 22 10 22 22v74c0 12-10 22-22 22h-17c-14 0-25 11-25 25s11 25 25 25h17c12 0 22 10 22 22v58c0 12-10 22-22 22h-74c-12 0-22-10-22-22v-17c0-14-11-25-25-25s-25 11-25 25v17c0 12-10 22-22 22H44c-12 0-22-10-22-22v-74c0-12 10-22 22-22h17c14 0 25-11 25-25S75 120 61 120H44c-12 0-22-10-22-22V43c0-12 10-22 22-22Z" fill="url(#puzzle)"></path><path d="M104 207l37-37 30 30 54-62" stroke="white" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"></path><circle cx="225" cy="138" r="9" fill="white"></circle></svg>
