@@ -13,3 +13,15 @@
 ';
 
 /* append your custom style below */
+
+#sidebar .site-subtitle {
+    font-size: 95%;
+    color: var(--site-subtitle-color);
+    margin-top: .25rem;
+    word-spacing: 1px;
+    height: 4rem;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
